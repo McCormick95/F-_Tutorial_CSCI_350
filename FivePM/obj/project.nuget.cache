@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uLTPUJ3uDvsXC1N3RKdIbZMjZIFPsySKe6OK5a/6YvaSi0eCL7q7iv2TGyWScOWEpL1hs6e0cTKqH6eHBWtUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanm\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
