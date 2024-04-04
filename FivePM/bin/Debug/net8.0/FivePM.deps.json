@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "FivePM/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "8.0.100"
+          "FSharp.Core": "8.0.100",
+          "Suave": "2.6.2"
         },
         "runtime": {
           "FivePM.dll": {}
@@ -62,6 +63,17 @@
             "locale": "zh-Hant"
           }
         }
+      },
+      "Suave/2.6.2": {
+        "dependencies": {
+          "FSharp.Core": "8.0.100"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Suave.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -77,6 +89,13 @@
       "sha512": "sha512-ZOVZ/o+jI3ormTZOa28Wh0tSRoyle1f7lKFcUN61sPiXI7eDZu8eSveFybgTeyIEyW0ujjp31cp7GOglDgsNEg==",
       "path": "fsharp.core/8.0.100",
       "hashPath": "fsharp.core.8.0.100.nupkg.sha512"
+    },
+    "Suave/2.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JNTsgb3FrFnvsp7G93Y9XLIGVa47fG4GZ8un/+/iMMVBTRWl8l6Rlnqjo/PsQP6NojtkrLEM4SLz9AhfQIPNag==",
+      "path": "suave/2.6.2",
+      "hashPath": "suave.2.6.2.nupkg.sha512"
     }
   }
 }

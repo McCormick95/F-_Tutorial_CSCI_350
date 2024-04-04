@@ -14,5 +14,6 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\ryanm\.nuget\packages\fsharp.core\8.0.100</PkgFSharp_Core>
+    <PkgSuave Condition=" '$(PkgSuave)' == '' ">C:\Users\ryanm\.nuget\packages\suave\2.6.2</PkgSuave>
   </PropertyGroup>
 </Project>

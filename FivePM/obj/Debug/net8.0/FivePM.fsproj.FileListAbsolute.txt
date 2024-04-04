@@ -28,3 +28,4 @@ C:\Users\ryanm\source1\CSCI_350_F#\F-_Tutorial_CSCI_350\FivePM\obj\Debug\net8.0\
 C:\Users\ryanm\source1\CSCI_350_F#\F-_Tutorial_CSCI_350\FivePM\obj\Debug\net8.0\FivePM.pdb
 C:\Users\ryanm\source1\CSCI_350_F#\F-_Tutorial_CSCI_350\FivePM\obj\Debug\net8.0\FivePM.genruntimeconfig.cache
 C:\Users\ryanm\source1\CSCI_350_F#\F-_Tutorial_CSCI_350\FivePM\obj\Debug\net8.0\ref\FivePM.dll
+C:\Users\ryanm\source1\CSCI_350_F#\F-_Tutorial_CSCI_350\FivePM\bin\Debug\net8.0\Suave.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2uLTPUJ3uDvsXC1N3RKdIbZMjZIFPsySKe6OK5a/6YvaSi0eCL7q7iv2TGyWScOWEpL1hs6e0cTKqH6eHBWtUQ==",
+  "dgSpecHash": "fCVUKsV17mO3dO/EXc/iru5Q8grTsJZp8URi4vP1Nhebr2fyK2bs3lRybu/Yjq8XByD5H3Vkz2i++tfGYhgVZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ryanm\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+    "C:\\Users\\ryanm\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512",
+    "C:\\Users\\ryanm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ryanm\\.nuget\\packages\\suave\\2.6.2\\suave.2.6.2.nupkg.sha512"
   ],
   "logs": []
 }
