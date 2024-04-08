@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj": {}
+    "C:\\Users\\ryanm\\source1\\repos\\F#_Language_Exploration\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj": {
+    "C:\\Users\\ryanm\\source1\\repos\\F#_Language_Exploration\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj",
+        "projectUniqueName": "C:\\Users\\ryanm\\source1\\repos\\F#_Language_Exploration\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj",
         "projectName": "FivePM",
-        "projectPath": "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj",
+        "projectPath": "C:\\Users\\ryanm\\source1\\repos\\F#_Language_Exploration\\F-_Tutorial_CSCI_350\\FivePM\\FivePM.fsproj",
         "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanm\\source1\\CSCI_350_F#\\F-_Tutorial_CSCI_350\\FivePM\\obj\\",
+        "outputPath": "C:\\Users\\ryanm\\source1\\repos\\F#_Language_Exploration\\F-_Tutorial_CSCI_350\\FivePM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "c:\\program files\\dotnet\\sdk\\8.0.100\\FSharp\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\8.0.100\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
